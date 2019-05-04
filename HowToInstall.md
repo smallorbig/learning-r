@@ -73,7 +73,7 @@ RStudio에서 지원하는 웹사이트라는 설명이 있어 왠지 믿음이 
 
 ## RStudio ##
 
-[RStudio 홈페이지](https://www.rstudio.com)에 방문해서 설치파일을 받도록 합니다.
+[RStudio 홈페이지](<https://www.rstudio.com>)에 방문해서 설치파일을 받도록 합니다.
 
 ### RStudio 설치파일 다운로드 ###
 
